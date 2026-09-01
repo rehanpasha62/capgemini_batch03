@@ -19,7 +19,6 @@ class SmartVehicle implements GPS, VehicleSafety {
     double speedLimit;
     String route;
     boolean collisionDetected;
-
     // Constructor
     SmartVehicle(String vehicleNumber, String model,
                  double currentSpeed, String location,
