@@ -14,7 +14,6 @@ class UPI implements Payment{
 		System.out.println("paid"+amount+"Using UPI");
 		
 	}
-
 	@Override
 	public void checkStatus() {
 		System.out.println("upi payments successfull ");

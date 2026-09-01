@@ -25,8 +25,7 @@ class ProjectManager implements TechnicalRole, ManagementRole
 	}
 	@Override
 	public void manageteam() {
-		System.out.println("Managing a team of : "+teamsize+"Developers");
-		
+		System.out.println("Managing a team of : "+teamsize+"Developers");	
 	}
 	@Override
 	public void designArchitecture() {

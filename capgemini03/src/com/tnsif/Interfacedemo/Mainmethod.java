@@ -27,7 +27,6 @@ class Onlineorder implements OrderService{
 		System.out.println("invalid order amount");
 		return false;
 	}
-    
 	@Override
 	public void processpayment(double amount) {
 		System.out.println("procession payment: "+amount);
