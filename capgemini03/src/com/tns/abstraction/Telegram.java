@@ -17,6 +17,6 @@ class Movie extends Message{
 }
 public class Telegram {
 public static void main(String[] args) {
-	moviename m = new movie
+	
 }
 }
