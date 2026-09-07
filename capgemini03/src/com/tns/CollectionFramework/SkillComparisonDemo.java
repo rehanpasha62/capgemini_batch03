@@ -21,7 +21,7 @@ public static void main(String[] args) {
 	PythonTeam.add("sql");
 	PythonTeam.add("git");
 	PythonTeam.add("AWS");
-	
+	System.out.println(PythonTeam);
 	
 	// create a copy of java team skills
 
